@@ -1,0 +1,16 @@
+.circalbtn{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid rgb(241, 238, 238);
+    }
+
+    select{
+        border:none;
+        padding: 10px 20px;
+        border-radius:5px;
+      }
+      
+      select:focus{
+        outline:none;
+      }
